@@ -1,4 +1,4 @@
-晴天台灣,#genre#
+$c_start台湾$c_end
 CNN,mitv://generationnexxxt.com:19806/28b3b84bc22e468893dc6f267d363099
 
 民視,mitv://generationnexxxt.com:19806/debfc7e3fc6f4f5ba921859e73b78a9f
@@ -240,7 +240,7 @@ Star Movies Gold,mitv://generationnexxxt.com:19806/9ffb18f15c7f4ddda5b0f48f29170
 Taiwan+,mitv://generationnexxxt.com:19806/36126df0ee4144668b1d686e3e9c2b0a
 東森購物2台,mitv://generationnexxxt.com:19806/f660724443614b42b02eb1d48630c3f3
 東森購物1台,mitv://generationnexxxt.com:19806/b7ffa9110a864b73b86f55d33af5c111
-晴天中國,#genre#
+$c_start晴天中国$c_end 
 CCTV1,mitv://generationnexxxt.com:19806/5020298dcec6415d97b5c55b3a82d607
 CCTV2,mitv://generationnexxxt.com:19806/794f3dac89db4e86bc58539552981176
 CCTV3,mitv://generationnexxxt.com:19806/afeedc9fb2214fa18fccdea1ae6213bf
@@ -329,7 +329,7 @@ Hands Up,mitv://generationnexxxt.com:19806/948e5f6068674f3a846cefe1b1ce4180
 亞洲劇台,mitv://generationnexxxt.com:19806/39b2516c7f3e465da6e7a93837c1ea81
 功夫台,mitv://generationnexxxt.com:19806/f8ee828aa7484a53ad43e37416758e9e
 HOY資訊台,mitv://generationnexxxt.com:19806/4b9e780005d04d86ab87f7c2949aa8d1
-晴天馬來西亞,#genre#
+$c_start马来西亚$c_end 
 CNN,mitv://generationnexxxt.com:19806/28b3b84bc22e468893dc6f267d363099
 TV1,mitv://generationnexxxt.com:19806/a6998df819804081a5595880eade7e4d
 TV2,mitv://generationnexxxt.com:19806/5f3fe04a6016475389da231c746f56a4
@@ -463,7 +463,7 @@ Hub Premier 2,mitv://generationnexxxt.com:19806/143223127bc5430b8e92cb7d833e19e3
 Hub Premier 3,mitv://generationnexxxt.com:19806/f1f618c014c948a29b143d14c3bbcb49
 Hub Premier 4,mitv://generationnexxxt.com:19806/63c113c5000c33e60c09bddc378b7580	
 Hub Premier 5,mitv://generationnexxxt.com:19806/af110c62ff31403381547eed83d69f7f
-晴天日本,#genre#
+$c_start日本$c_end 
 NHK-G综合,mitv://generationnexxxt.com:19806/f5b6be0bcabf46f59e92b4c9b5801f2d
 NHK-E教育,mitv://generationnexxxt.com:19806/dd8e3315cc05426d9b572a31e64d4346
 日本テレビ,mitv://generationnexxxt.com:19806/d4293bb90e2d47ba9ffe07402840cd3a
@@ -505,7 +505,7 @@ Music Japan TV,mitv://generationnexxxt.com:19806/b9534ed901784cbda0d12773d7db6dd
 日テレNEWS 24,mitv://generationnexxxt.com:19806/b112dc45abca46dd9ef249d6a0d8f6dd
 旅チャンネル,mitv://generationnexxxt.com:19806/a8bec5ef231b44cf9ffff0663109fb59
 チャンネル銀河,mitv://generationnexxxt.com:19806/1b4d9ecb0cab4669a3125115b2defb86
-晴天韓國,#genre#
+$c_start韩国$c_end 
 Arirang,mitv://generationnexxxt.com:19806/1989916887d04d9d83d9ebce0afa94af
 KBS1,mitv://generationnexxxt.com:19806/c7b8484c815b4160a5a5220a9c773974
 KBS2,mitv://generationnexxxt.com:19806/76d01c837efc4093846a90b3fa6ed3c5
@@ -532,7 +532,7 @@ tvN Movies HD,mitv://generationnexxxt.com:19806/d5ad605eb2ad44969f90f1dffc66fbe4
 Indosiar,mitv://generationnexxxt.com:19806/eb3607a073554a7084a5e7c10ea3cd1a
 SCTV,mitv://generationnexxxt.com:19806/34bc671cce4746fd9662cdc3bda97008
 RCTI,mitv://generationnexxxt.com:19806/0a7fd0e188d1447abf131f2e23e2add4
-晴天泰國,#genre#
+$c_start泰国$c_end 
 Channel 5,mitv://generationnexxxt.com:19806/77ae469de4bc4e7dbd6838a90fc7441c
 NBT,mitv://generationnexxxt.com:19806/ba29feaca3c5446ca02f59e9c1f1bd2f
 TNN 16,mitv://generationnexxxt.com:19806/4cd74acfbb464f9699ea9c79b522028b
@@ -582,7 +582,7 @@ Business News Network,mitv://generationnexxxt.com:19806/4c87f0262afe472c96f974c8
 CP24,mitv://generationnexxxt.com:19806/57ac8abd2e2e44acb5bd1958fcb3ea16
 The Weather Network,mitv://generationnexxxt.com:19806/0336f46a9f9b47c893f2aa19ee48b340
 The Weather Channel,mitv://generationnexxxt.com:19806/ee9f434e4d5d4c7b8be21b27cd6cc66d
-晴天新聞,#genre#
+$c_start新闻$c_end
 CNN,mitv://generationnexxxt.com:19806/28b3b84bc22e468893dc6f267d363099
 無綫新聞台(備),mitv://generationnexxxt.com:19806/53d2416198234f76a9e3207886db4517
 無綫新聞台,mitv://generationnexxxt.com:19806/3fab81cdbe234f20a5036669ce3c42d1
@@ -645,7 +645,7 @@ MTV Live,mitv://generationnexxxt.com:19806/743c140ff41b409cb06601974478755a
 Mezzo Live,mitv://generationnexxxt.com:19806/52bcae76e16848778bef32ac03ba19ae
 CLASSICA 古典樂,mitv://generationnexxxt.com:19806/30cc16989e5f42ed82ce7106c5a013b4
 CMusic,mitv://generationnexxxt.com:19806/13eb087433f3444f8227e1153f86de5b
-晴天體育,#genre#
+$c_start体育$c_end
 CCTV5,mitv://generationnexxxt.com:19806/91e30d33a963479b9f10b1fde2ce1e47
 CCTV5+,mitv://generationnexxxt.com:19806/0d56f608a05f4dbfba19a722be24b8ab
 魅力足球,mitv://generationnexxxt.com:19806/1a45f6d905d2418ba4026b182f81f07f
@@ -717,7 +717,7 @@ Sky Sports Arena,mitv://generationnexxxt.com:19806/a377c8a2dd7b4220b6c1accc4775a
 Sky Sports Main Event,mitv://generationnexxxt.com:19806/ad6128fd72cd4510b4dbe02988ba0826
 Sky Sports Cricket,mitv://generationnexxxt.com:19806/084fdaeb8b5c443c9724e2019e1371d0
 Sky Sports Action,mitv://generationnexxxt.com:19806/504387f3fdfb41d1911f85638161a807
-晴天知識,#genre#
+$c_start知识$c_end
 CCTV9,mitv://generationnexxxt.com:19806/623ecceb2d054d1dbb86543081d9aab5
 國家地理頻道,mitv://generationnexxxt.com:19806/b71a63cefb1a49f9b55683b9ac45e783
 探索頻道,mitv://generationnexxxt.com:19806/5d564a42791c480ebab7587989c57024
@@ -749,7 +749,7 @@ EYE TV旅遊台,mitv://generationnexxxt.com:19806/d34f0786ecad429086c507f7314918
 時尚頻道,mitv://generationnexxxt.com:19806/880690cf67da47788eb184f39784a3bc
 TV5MONDE Style 生活時尚,mitv://generationnexxxt.com:19806/24b8f382fc1546d8be0404e8c10d1a2b
 Travel Channel,mitv://generationnexxxt.com:19806/7e11b15496544489b03c5265864e6a95
-晴天兒少,#genre#
+$c_start卡通$c_end
 CCTV14,mitv://generationnexxxt.com:19806/439d4af0fb0a41f39ee3a622bb27e744
 CN卡通頻道,mitv://generationnexxxt.com:19806/228d01d9fa054d1baf64bf8f901ae3cf
 星空衛視,mitv://generationnexxxt.com:19806/1abdfa2218a94be2956802f8e362e28b
@@ -770,7 +770,7 @@ Nick Jr.,mitv://generationnexxxt.com:19806/e8d747450d2640d2b5e296f6f89dee9c
 Cbeebies,mitv://generationnexxxt.com:19806/2a4f46b4b41e4456ad83b1279af98b65
 Dreamworks,mitv://generationnexxxt.com:19806/6a30498d4df84b12a6c4dd7db217110f
 Hands Up,mitv://generationnexxxt.com:19806/948e5f6068674f3a846cefe1b1ce4180
-晴天電影,#genre#
+$c_start电影$c_end
 CCTV6,mitv://generationnexxxt.com:19806/7c57c860cf9d44dea2940dd3c521067a
 天映頻道,mitv://generationnexxxt.com:19806/042f4bdd7eed4c1d962f10ecd8290cd0
 天映經典,mitv://generationnexxxt.com:19806/12109defb50c4aae8a692cc0ad5ca3e1
@@ -813,7 +813,7 @@ CHC動作電影,mitv://generationnexxxt.com:19806/259812f575ed4eef814aa01b6a4f16
 Star Movies Gold,mitv://generationnexxxt.com:19806/9ffb18f15c7f4ddda5b0f48f29170482
 CHC高清电影,mitv://generationnexxxt.com:19806/4c20b95cf04044c59bc68606ac0a3612
 CHC家庭影院,mitv://generationnexxxt.com:19806/8ee383c69dec43b59e925ccfe7c593d0
-晴天戲劇,#genre#
+$c_start戏剧$c_end
 東森戲劇台,mitv://generationnexxxt.com:19806/cb88a51d5de844f6944af6eb66b3897c
 八大戲劇台,mitv://generationnexxxt.com:19806/61b71d14caf844daade0b4ba2ff9514c
 緯來戲劇台,mitv://generationnexxxt.com:19806/4ffb1dd8891c4528895414250b1a5c98
@@ -825,7 +825,7 @@ EYE TV戲劇台,mitv://generationnexxxt.com:19806/266aab0a50e64a3593975ca0a5d046
 愛爾達影劇台,mitv://generationnexxxt.com:19806/f32cf31f156b40cea4bd63d88aeb29b3
 Hub娛家,mitv://generationnexxxt.com:19806/48516f220b1f420f986b92c12dcd84e1
 亞洲劇台,mitv://generationnexxxt.com:19806/39b2516c7f3e465da6e7a93837c1ea81
-晴天SP,#genre#
+$c_start晴天sp$c_end密码：3688
 
 彩虹e台,mitv://generationnexxxt.com:19806/1cc806a1cd934ef59217cbe816c38018
 彩虹電影台,mitv://generationnexxxt.com:19806/ede503079f114bc6bf365846ba424990
