@@ -239,57 +239,7 @@ TVB星河台,http://119.140.58.42:9901/hls/12/index.m3u8
 民视,http://23.237.10.66:16334
 民视,http://107.151.203.111:2209/135/us50.php?id=msk
 民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
-新闻,#genre#
-中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
-中视新闻,http://2023.stream-link.org/playlist/ctv_news
-中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-台视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=07
-民视新闻,http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
-民视新闻,http://2022.stream-link.org/playlist/ftv_news
-民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-民视新闻,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
-华视新闻,http://2023.stream-link.org/playlist/cts_news
-中天新闻,http://pull-l3-cny.douyincdn.com/third/stream-7898d38d54c60879ba96a1fa42edbd53.m3u8
-中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
-中天新闻,http://2023.stream-link.org/playlist/cti_news
-中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=05
-寰宇新闻台,http://2023.stream-link.org/playlist/global_tw
-寰宇新闻台,http://www.yshmzmc.top/gtjm.php?id=live1222
-寰宇新闻台,http://2022.stream-link.org/playlist/global_tw
-寰宇新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=14
-寰宇新闻台,http://pull-l3-cny.douyincdn.com/third/stream-a9e3982a798d13ba350075af6cff4119.m3u8
-TVBS,http://2022.stream-link.org/playlist/tvbs
-TVBS,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/tvbs/playlist.m3u8
-TVBS歡樂台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
 
-TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
-TVBS新闻,http://line.premiumpowers.net:80/Manuel/1234567/941622
-
-TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
-TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-TVBS新闻,http://line.premiumpowers.net:80/Manuel/1234567/941622
-TVBS亚洲台,http://line.premiumpowers.net:80/Manuel/1234567/941621
-TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
-三立LIVE,http://2023.stream-link.org/playlist/set_news
-三立LIVE+,http://2023.stream-link.org/playlist/set_news+
-三立財經新聞,http://2023.stream-link.org/playlist/set_inews
-有线直播台,http://pull-l3-cny.douyincdn.com/third/stream-1696778d64f00f3f9c0aefe3b2136ffe.m3u8
-有线新闻台,http://pull-l3-cny.douyincdn.com/third/stream-3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
-有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
-有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
-东森新闻,http://www.yshmzmc.top/gtjm.php?id=live1014
-东森LIVE,http://158.101.151.82:9000/jmsytb.m3u8?c=2
-东森LIVE,http://2022.stream-link.org/playlist/ebc_news
-东森LIVE,http://158.101.151.82:9000/jmsytb.m3u8?c=2
-东森LIVE,http://158.101.151.82:9000/jmsytb.m3u8?c=2
-東森財經新聞,http://2023.stream-link.org/playlist/ebc_finance
-東森yoyo,http://pull-l3-cny.douyincdn.com/third/stream-adb7cf254b46d42d58828f590a6137bf.m3u8
-澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
-澳门莲花,https://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
 晴天台灣,#genre#
 CNN,mitv://generationnexxxt.com:19806/28b3b84bc22e468893dc6f267d363099
 
@@ -875,6 +825,9 @@ CP24,mitv://generationnexxxt.com:19806/57ac8abd2e2e44acb5bd1958fcb3ea16
 The Weather Network,mitv://generationnexxxt.com:19806/0336f46a9f9b47c893f2aa19ee48b340
 The Weather Channel,mitv://generationnexxxt.com:19806/ee9f434e4d5d4c7b8be21b27cd6cc66d
 晴天新聞,#genre#
+广东新闻,https://epg.pw/stream/e57892233d6ae4b46898f76ee120f8c8657c330fbc65aff193c6b5c03f30e1a2.m3u8
+广东新闻,https://epg.pw/stream/4488fe4145f08ed0a20a589c5005643ff8f1112238faa4763beebce3c18b44eb.m3u8
+广东新闻,https://epg.pw/stream/19469676d43af04e930b64cdd58e72f77b493c94b8cf20b67153dda0ecd44dac.m3u8
 CNN,mitv://generationnexxxt.com:19806/28b3b84bc22e468893dc6f267d363099
 無綫新聞台(備),mitv://generationnexxxt.com:19806/53d2416198234f76a9e3207886db4517
 無綫新聞台,mitv://generationnexxxt.com:19806/3fab81cdbe234f20a5036669ce3c42d1
