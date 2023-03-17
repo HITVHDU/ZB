@@ -486,7 +486,7 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/f5efdf92c91d4e29b5cb0ce88da723
 港台電視31,mitv://generationnexxxt.com:19806/74fc0c2698d7473993bf38cc305005d8
 港台电视32,mitv://generationnexxxt.com:19806/2c0081f46ec34d938526a4840a8d77db
 HOY TV,mitv://generationnexxxt.com:19806/888310b67d4145d38881b7aff412bc4e
-﻿翡翠台(备),mitv://generationnexxxt.com:19806/64102e9100070888410a9eac61e8725a
+翡翠台(备),mitv://generationnexxxt.com:19806/64102e9100070888410a9eac61e8725a
 J2,mitv://generationnexxxt.com:19806/6ed24791c2ad495d8e6452e702365305
 无线新闻台(备),mitv://generationnexxxt.com:19806/49333b72b06046e8b18999367fb20023
 无线新闻台,mitv://generationnexxxt.com:19806/49426a8f402248f09fcba6206eda63e6
@@ -778,6 +778,9 @@ CP24,mitv://generationnexxxt.com:19806/5efde580fc9e4f699ccaba83c1a97085
 The Weather Network,mitv://generationnexxxt.com:19806/feee91e7ee4541c3a24b385477b35378
 The Weather Channel,mitv://generationnexxxt.com:19806/bd27010686a04dd9bcd17fcedce18344
 新闻,#genre#
+广东新闻,https://epg.pw/stream/e57892233d6ae4b46898f76ee120f8c8657c330fbc65aff193c6b5c03f30e1a2.m3u8
+广东新闻,https://epg.pw/stream/4488fe4145f08ed0a20a589c5005643ff8f1112238faa4763beebce3c18b44eb.m3u8
+广东新闻,https://epg.pw/stream/19469676d43af04e930b64cdd58e72f77b493c94b8cf20b67153dda0ecd44dac.m3u8
 CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 无线新闻台(备),mitv://generationnexxxt.com:19806/49333b72b06046e8b18999367fb20023
 无线新闻台,mitv://generationnexxxt.com:19806/49426a8f402248f09fcba6206eda63e6
