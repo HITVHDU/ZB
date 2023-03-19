@@ -1027,7 +1027,7 @@ GRTN文化频道,http://124.222.238.146:1125/m3u8.php?/iTouchTV/2511
 连平台,http://124.222.238.146:1125/m3u8.php?/iTouchTV/2520
 潮安综合,http://124.222.238.146:1125/m3u8.php?/iTouchTV/2523
 潮安电台,http://124.222.238.146:1125/m3u8.php?/iTouchTV/2524
-$c_startSP_5566$c_end 
+$c_startSP$c_end_5566 
 彩虹e台,mitv://generationnexxxt.com:19806/2a5b154749ab46eea144a4e0a103cae5
 彩虹电影台,mitv://generationnexxxt.com:19806/318295ce90604574a21320ae8b076450
 LOOK TV,mitv://generationnexxxt.com:19806/68e430cb813f400ab868521537373260
