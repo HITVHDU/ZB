@@ -7,7 +7,7 @@
 
 
 {"key":"T4_douban","name":"
-{"key":"csp_IQIYI","name":"爱奇艺〔SP〕","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_IQIYI","name":"〕","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Mgtv","name":"芒果TV〔SP〕","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 
