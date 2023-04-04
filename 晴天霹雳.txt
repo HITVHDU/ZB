@@ -1,5 +1,5 @@
 晴天台灣,#genre#
-CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
+CNN,mitv://generationnexxxt.com:
 民視,mitv://generationnexxxt.com:19806/be5ac64c17cd43d799467933dd05dc17
 人間衛視,mitv://generationnexxxt.com:19806/33ca44a201eb45fba7fc542c1d3c1abe
 台視,mitv://generationnexxxt.com:19806/a986d221755d46a586fef7c251c2e127
