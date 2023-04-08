@@ -1,5 +1,6 @@
 
 公告,#genre#
+🆘紧急通知,http://52bsj.vip:81/api/v3/file/get/124383/video_230407_214333.mp4?sign=z27TCx07mh4ZITtySXUnrVbhh_Q2Btbx8EhpLiXlPG4%3D%3A0
 
 央视,#genre#
 
