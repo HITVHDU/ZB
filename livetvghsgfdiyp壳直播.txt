@@ -1386,7 +1386,7 @@ GOODTV旅行,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/live
 西安|乐购,http://49.235.110.121:9090/daili/xa.php?id=xalg
 西安|移动,http://49.235.110.121:9090/daili/xa.php?id=xayd
 
-有线数字_666,#genre#
+有线数字_,#genre#
 
 华数电影4K,http://39.134.24.161/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3&HlsProfileId=
 精彩影视,http://39.134.24.161/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3&HlsProfileId=
