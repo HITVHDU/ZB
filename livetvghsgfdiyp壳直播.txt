@@ -4734,7 +4734,7 @@ HBO 2,http://208.115.225.174:14140
 电影1905,http://49.235.110.121:9090/daili/1905.php?id=1905
 精选,http://49.235.110.121:9090/daili/IPTV.php?id=jx
 
-内部测试_024688,#genre#
+内部测试_zuozhu666,#genre#
 
 ASMR姐姐的夢境,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/74/oh/ov/ky/be6214b2998f4f33a65d8e879fc77c8e.m3u8?
 HongKongDoll1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/18/za/32/me/2a7f84f6b6094f73b46d5aac8996adc4.m3u8?
