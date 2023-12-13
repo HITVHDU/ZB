@@ -2871,7 +2871,7 @@ GRTN文化频道,http://8.217.90.28:9999/触电.php?id=gdwh
 恩平综合,http://8.217.90.28:9999/触电.php?id=epzh
 罗定综合,http://8.217.90.28:9999/触电.php?id=ldzh
 湖南频道,#genre#
-湖南卫视,http://49.235.110.121:9090/daili/湖南.php?id=1
+湖南卫视,http://gxft.7766.org:9901/tsfile/live/0128_1.m3u8?key=txiptv&url=tvzb.com
 湖南都市,http://49.235.110.121:9090/daili/湖南.php?id=2
 湖南娱乐,http://49.235.110.121:9090/daili/湖南.php?id=3
 湖南经视,http://49.235.110.121:9090/daili/湖南.php?id=4
